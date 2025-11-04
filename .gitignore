@@ -1,0 +1,14 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.csv
+gmb_ranking_*.csv
+gmb_ranking_progress.csv
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
